@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil S R
-- 👀 I’m interested in electronics, game development and cyber security
+- 👀 I’m interested in cybersecurity, hacking and electronics
 - 🌱 I’m currently learning BE in cs
 - 💞️ I’m looking to collaborate on various projects related to electronics, visual programming, malware analysis and use of ai
 - 📫 How to reach me discord:skoelle
